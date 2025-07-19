@@ -13,9 +13,8 @@
 *.bin
 *.hex
 SI/
-MDK-ARM/DebugConfig
-MDK-ARM/RTE
-MDK-ARM/UART_IDLE
+02_Motor/STM32G431CBT6/MDK-ARM/DebugConfig
+02_Motor/STM32G431CBT6/MDK-ARM/RTE
 *.scvd
 #Keil Project screen layout file
 #!/MDK-ARM/*.uvoptx
