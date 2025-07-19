@@ -13,8 +13,10 @@
 *.bin
 *.hex
 SI/
-02_Motor/STM32G431CBT6/MDK-ARM/DebugConfig
-02_Motor/STM32G431CBT6/MDK-ARM/RTE
+02_MainControl/MDK-ARM/DebugConfig
+02_MainControl/MDK-ARM/RTE
+01_Sunsensor/MDK-ARM/DebugConfig
+01_Sunsensor/MDK-ARM/RTE
 *.scvd
 #Keil Project screen layout file
 #!/MDK-ARM/*.uvoptx
